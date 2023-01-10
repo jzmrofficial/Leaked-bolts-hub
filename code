@@ -2766,10 +2766,10 @@ end)
 W:Button("If you want to contact me",function()
     print("Button Pressed")
 end)
-W:Button("inno is a bitch edited on 9/13/22",function()
+W:Button("Discord : GHZ0E#1134 ",function()
     print("Button Pressed")
 end)
-W:Button("Discord : GHZ0E#1134",function()
+W:Button("Discord : GHZ0E#1134 ",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Bolts Says",
             Text="Copied Successfully!",
@@ -2785,7 +2785,7 @@ W:Button("Discord : GHZ0E#1134 ",function()
         })
     setclipboard("GHZ0E#1134")
 end)
-W:Button("Discord : GHZ0E#1134",function()
+W:Button("Discord : GHZ0E#1134 ",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Bolts Says",
             Text="Copied Successfully!",
@@ -2793,7 +2793,7 @@ W:Button("Discord : GHZ0E#1134",function()
         })
     print("GHZ0E#1134")
 end)
-W:Button("Discord : GHZ0E1134",function()
+W:Button("Discord : GHZ0E1134 ",function()
     setclipboard("GHZ0E#1134")
 end)
 W:Button("Click to copy TOS",function()
