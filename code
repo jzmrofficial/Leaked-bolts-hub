@@ -531,7 +531,7 @@ local ArsoniaTable={
 }
 
 
-local name="LEAKED BY GHZ0E -                                                                    "..identifyexecutor()..""
+local name="LEAKED BY GHZ0E -                                                                                                                                                                                                                                                                                                                                                                                                     "..identifyexecutor()..""
 
 if _G.Funnyname then
     local Prefix={"Epic","","Working"}
