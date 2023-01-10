@@ -531,7 +531,7 @@ local ArsoniaTable={
 }
 
 
-local name="LEAKED BY GHZ0E -                                                                                                                                                                                                                                                                                                                                                                                                     "..identifyexecutor()..""
+local name="LEAKED BY GHZ0E - "..identifyexecutor()..""
 
 if _G.Funnyname then
     local Prefix={"Epic","","Working"}
@@ -780,7 +780,7 @@ spawn(function()
 game:GetService("ReplicatedStorage").Events.UpdatePing:FireServer(unpack(args))end
 
 end)
-CombatTabMainSection:Toggle("Triggerbot (Toggle Slient Aim To Work)",function(x)
+CombatTabMainSection:Toggle("Triggerbot",function(x)
     if x then
             ArsoniaTable.Aimbot.Silentaim.AutoshootMethod="Force Fire"
     else
