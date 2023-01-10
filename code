@@ -2777,24 +2777,24 @@ W:Button("Discord : GHZ0E#1134",function()
         })
     setclipboard("GHZ0E#1134")
 end)
-W:Button("Bitcoin Click To Copy Adress ",function()
+W:Button("Discord : GHZ0E#1134 ",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Bolts Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    setclipboard("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
+    setclipboard("GHZ0E#1134")
 end)
-W:Button("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7",function()
+W:Button("Discord : GHZ0E#1134",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Bolts Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    print("3JAqWPuSfER17WVwxaA5RFznQrmYb8yjy7")
+    print("GHZ0E#1134")
 end)
-W:Button("Copy Discord Link To Clip Board",function()
-    setclipboard("https://discord.gg/nxRhHHakyg")
+W:Button("Discord : GHZ0E1134",function()
+    setclipboard("GHZ0E#1134")
 end)
 W:Button("Click to copy TOS",function()
 
