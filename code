@@ -2763,19 +2763,19 @@ W:Button("Press RightShift To Hide The GUI",function()
     print("Button Pressed")
 end)
 
-W:Button("If you want to donate to me",function()
+W:Button("If you want to contact me",function()
     print("Button Pressed")
 end)
 W:Button("inno is a bitch edited on 9/13/22",function()
     print("Button Pressed")
 end)
-W:Button("Cash App : $Bolts.GG",function()
+W:Button("Discord : GHZ0E#1134",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
             Title="Bolts Says",
             Text="Copied Successfully!",
             Duration=15
         })
-    setclipboard("$Bolts.GG")
+    setclipboard("GHZ0E#1134")
 end)
 W:Button("Bitcoin Click To Copy Adress ",function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -2806,13 +2806,13 @@ end)
 local E=Window:Tab("Credits")
 local W=E:Section("Credits")
 
-W:Button("Bolts#0027- Owner",function()
+W:Button("Leaked by GHZ0E - ",function()
     print("Button Pressed")
 end)
-W:Button("The3Bakers - Helper",function()
-    setclipboard("https://discord.gg/zbnGJU6Att")
+W:Button("Leaked by GHZ0E - ",function()
+    setclipboard("GHZ0E#1134")
 end)
-W:Button("Storm - Co Owner",function()
+W:Button("Leaked by GHZ0E - ",function()
     print("Button Pressed")
 end)
 
